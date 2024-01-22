@@ -6,5 +6,5 @@
 - 📚 Spanish Learner
 - 🎶 Alternative & Indie Music Lover
 
-![Visitors](https://visitor-badge.laobi.icu/badge?page_id=ethanlanders&left_color=blue&right_color=orange&left_text=Visitors)
+![Visitors](https://visitor-badge.laobi.icu/badge?page_id=ethanlanders&left_color=purple&right_color=green&left_text=Visitors)
 
