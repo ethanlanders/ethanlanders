@@ -5,3 +5,5 @@
 - 🚀 Organizer for [Tech Alliance of SWFL](https://www.meetup.com/techallianceswfl/)
 - 📚 Spanish Learner
 - 🎶 Alternative & Indie Music Lover
+
+![visitors](https://visitor-badge.laobi.icu/badge?page_id=zarela.zarela&left_color=purple&right_color=green&left_text=Visitors)
