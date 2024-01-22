@@ -3,5 +3,5 @@
 - 🌐 Community Builder
 - 🐍 Co-Organizer for [Python SWFL](https://www.meetup.com/pythonswfl/)
 - 🚀 Organizer for [Tech Alliance of SWFL](https://www.meetup.com/techallianceswfl/)
-- 📚 Spanish Learner
+- 📚 Constantly Improving My Spanish (Advanced Proficiency)
 - 🎶 Alternative & Indie Music Lover
